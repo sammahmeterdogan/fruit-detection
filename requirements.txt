@@ -1,0 +1,4 @@
+ultralytics>=8.3.0
+fiftyone>=1.7.2
+opencv-python
+pyyaml

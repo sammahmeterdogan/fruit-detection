@@ -1,0 +1,11 @@
+# YOLO dataset config (Open Images V7'dan üretildi)
+path: "C:/Users/ASUS/Desktop/Fru,t/datasets/fruit_oi_yolo"
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: apple
+  1: banana
+  2: orange
+  3: pear
+  4: strawberry

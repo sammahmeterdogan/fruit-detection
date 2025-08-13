@@ -1,0 +1,14 @@
+# Open Images V7 (yalnız meyveler) -> YOLO
+classes:
+  - Apple
+  - Banana
+  - Orange
+  - Pear
+  - Strawberry
+  - Grapes
+
+# 0 = limitsiz (çok büyük olabilir); ilk deneme için 3000-5000 önerilir
+max_per_split: 3000
+
+# Çıkış kök klasörü
+out_dir: datasets/fruit_oi_yolo
